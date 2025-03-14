@@ -1,0 +1,4 @@
+- [playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
+- [Fall 2022](https://web.stanford.edu/class/archive/cs/cs109/cs109.1232/)
+- [Winter 2023](https://web.stanford.edu/class/archive/cs/cs109/cs109.1234/)
+- [course reader](https://chrispiech.github.io/probabilityForComputerScientists/en/)
